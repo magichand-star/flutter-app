@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "484757252858",
+    "project_id": "monarchium-5f98b",
+    "storage_bucket": "monarchium-5f98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484757252858:android:dbe56495b4057fbfae7743",
+        "android_client_info": {
+          "package_name": "com.monarchium.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484757252858-14dqt6vula4hknor6djtbnnqih393ujc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monarchium.app",
+            "certificate_hash": "95bb51a3219135aaf6cafb9712bb7d84e652cee8"
+          }
+        },
+        {
+          "client_id": "484757252858-6pgn9kpusc051cfvfl8jk4f1ivfnp521.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monarchium.app",
+            "certificate_hash": "976d0e6472e8147648fe69a17b893bba6760e2bd"
+          }
+        },
+        {
+          "client_id": "484757252858-jriq3sssohlp64990pujjkqmi47a62ge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monarchium.app",
+            "certificate_hash": "6ff62c759c644fc6e21cf8ad012c4ece7689e094"
+          }
+        },
+        {
+          "client_id": "484757252858-s5umv9eihflhfq0khfsf0lnk2vhi0fc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLm9_6JzjeF_ZKenNgqUgwQknCV9RYoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484757252858-s5umv9eihflhfq0khfsf0lnk2vhi0fc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484757252858-99atakj9kr1kp9gg5v2vq325cblv295f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.monarchium.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484757252858:android:9e9d38a250afa3f6ae7743",
+        "android_client_info": {
+          "package_name": "com.monarchium.monarchium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484757252858-6ota5vved2abfl6uqpvvfrvbq3boirng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monarchium.monarchium",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "484757252858-s5umv9eihflhfq0khfsf0lnk2vhi0fc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLm9_6JzjeF_ZKenNgqUgwQknCV9RYoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484757252858-s5umv9eihflhfq0khfsf0lnk2vhi0fc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484757252858-99atakj9kr1kp9gg5v2vq325cblv295f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.monarchium.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

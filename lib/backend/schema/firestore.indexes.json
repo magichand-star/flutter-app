@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "assotiations",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "creator",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "created_date",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
